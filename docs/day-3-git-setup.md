@@ -49,3 +49,6 @@ git push -u origin main
 
 ## ✅ Outcome
 Local repository successfully connected and pushed to GitHub.
+
+Learned how to push local changes to GitHub.
+
