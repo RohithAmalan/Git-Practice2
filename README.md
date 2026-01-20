@@ -1,0 +1,1 @@
+Day 2: Learning how to modify, stage, and commit changes in Git.
